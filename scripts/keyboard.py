@@ -15,7 +15,7 @@ def apply_color_keyboard(color_received, hex_color):
     start_time = time.time()  # Início da contagem
 
     chromedriver_path = os.path.join(os.getcwd(), "chromedriver.exe")
-    ahk_script = r"C:\Users\mathe\OneDrive\Documentos\Python\Projetos\Alexa RGB Setup\AHK\key_keyboard.ahk"
+    ahk_script = r"C:\Users\mathe\OneDrive\Documentos\Python\Projetos\Alexa RGB Setup\ahk\key_keyboard.ahk"
 
     options = Options()
     options.add_argument("--start-maximized")

@@ -9,7 +9,7 @@ def apply_color_mouse(hex_color):
     start_time = time.time()  # Início da contagem
 
     razer_path = r"C:\Program Files (x86)\Razer\Synapse3\WPFUI\Framework\Razer Synapse 3 Host\Razer Synapse 3.exe"
-    ahk_script = r"C:\Users\mathe\OneDrive\Documentos\Python\Projetos\Alexa RGB Setup\AHK\key_mouse.ahk"
+    ahk_script = r"C:\Users\mathe\OneDrive\Documentos\Python\Projetos\Alexa RGB Setup\ahk\key_mouse.ahk"
 
     # Abre o Razer Synapse
     subprocess.Popen([razer_path])
