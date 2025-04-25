@@ -1,0 +1,11 @@
+auth_alexa
+conditions.colors_verify
+conditions.computer_status
+conditions.free_mode
+conditions.work_mode
+expression_evaluator
+flask
+general_boolean_verify
+requests
+tk
+typing

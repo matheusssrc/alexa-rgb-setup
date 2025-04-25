@@ -1,0 +1,4 @@
+transformers==4.39.3
+torch>=2.0.0
+datasets
+sentencepiece

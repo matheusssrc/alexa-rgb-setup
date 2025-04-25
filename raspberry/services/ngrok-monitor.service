@@ -1,0 +1,14 @@
+[Unit]
+Description=Monitor de Túnel Ngrok e Atualização Alexa
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+ExecStart=/home/"SEU USER"/ngrok/monitor_ngrok.sh
+WorkingDirectory=/home/"SEU USER"/ngrok
+Restart=always
+RestartSec=10
+User="SEU USER"
+
+[Install]
+WantedBy=multi-user.target

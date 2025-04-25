@@ -1,0 +1,246 @@
+{"input": "amarelo brilhante", "output": "#eeef11"}
+{"input": "amarelo claro", "output": "#e9ee5d"}
+{"input": "amarelo escuro", "output": "#937c17"}
+{"input": "amarelo frio", "output": "#dddd11"}
+{"input": "amarelo neon", "output": "#e5ff11"}
+{"input": "amarelo opaco", "output": "#d0d03b"}
+{"input": "amarelo profundo", "output": "#b2ac08"}
+{"input": "amarelo quente", "output": "#ddd42a"}
+{"input": "areia marrom", "output": "#b0a077"}
+{"input": "azeitona", "output": "#bbaa10"}
+{"input": "azeitona brilhante", "output": "#bbbb19"}
+{"input": "azeitona clara", "output": "#bbaa77"}
+{"input": "azeitona claro", "output": "#cccc70"}
+{"input": "azeitona claroa", "output": "#bbbb70"}
+{"input": "azeitona escura", "output": "#606033"}
+{"input": "azeitona fria", "output": "#bbaa18"}
+{"input": "azeitona moliva", "output": "#bbbb90"}
+{"input": "azeitona neon", "output": "#ddf0ff"}
+{"input": "azeitona opaca", "output": "#909022"}
+{"input": "azeitona opaco", "output": "#707044"}
+{"input": "azeitona profunda", "output": "#6b6233"}
+{"input": "azeitona quente", "output": "#bb9d31"}
+{"input": "azul", "output": "#0000ff"}
+{"input": "azul brilhante", "output": "#3166ff"}
+{"input": "azul claro", "output": "#6488fa"}
+{"input": "azul céu", "output": "#55a0dd"}
+{"input": "azul da meia noite", "output": "#0e474d"}
+{"input": "azul escuro", "output": "#382ab2"}
+{"input": "azul frio", "output": "#3366b5"}
+{"input": "azul neon", "output": "#3136fe"}
+{"input": "azul opaco", "output": "#5d74b0"}
+{"input": "azul profundo", "output": "#403bbb"}
+{"input": "azul quente", "output": "#5566e5"}
+{"input": "bege", "output": "#bbbbb0"}
+{"input": "bege brilhante", "output": "#d0d0c3"}
+{"input": "bege claro", "output": "#c5beb1"}
+{"input": "bege escuro", "output": "#727254"}
+{"input": "bege neon", "output": "#d0d0c5"}
+{"input": "bege opaco", "output": "#b5ada4"}
+{"input": "bege profunda", "output": "#a0a0a0"}
+{"input": "bege profundo", "output": "#444077"}
+{"input": "bege quente", "output": "#bbb0a1"}
+{"input": "branca claroa", "output": "#eeffff"}
+{"input": "branco", "output": "#eeeeee"}
+{"input": "branco brilhante", "output": "#ffffff"}
+{"input": "branco claro", "output": "#eef9f9"}
+{"input": "branco escuro", "output": "#6d2141"}
+{"input": "branco frio", "output": "#dde6ee"}
+{"input": "branco neon", "output": "#eeeef6"}
+{"input": "branco opaco", "output": "#bfbfcc"}
+{"input": "branco profundo", "output": "#500090"}
+{"input": "branco quente", "output": "#eebfbf"}
+{"input": "cian claro", "output": "#0ea7cd"}
+{"input": "ciano", "output": "#0e97bd"}
+{"input": "ciano brilhante", "output": "#11bece"}
+{"input": "ciano claro", "output": "#a7d1dd"}
+{"input": "ciano de neon", "output": "#0ef7fd"}
+{"input": "ciano escuro", "output": "#205b72"}
+{"input": "ciano frio", "output": "#0e87ad"}
+{"input": "ciano neon", "output": "#0e97bd"}
+{"input": "ciano opaco", "output": "#459cad"}
+{"input": "ciano profundo", "output": "#106666"}
+{"input": "ciano quente", "output": "#31abb3"}
+{"input": "cinza", "output": "#707070"}
+{"input": "cinza brilhante", "output": "#8390a4"}
+{"input": "cinza claro", "output": "#b2b2b2"}
+{"input": "cinza escuro", "output": "#48484a"}
+{"input": "cinza frio", "output": "#70787c"}
+{"input": "cinza neon", "output": "#88aaab"}
+{"input": "cinza opaco", "output": "#8f9193"}
+{"input": "cinza profundo", "output": "#504c55"}
+{"input": "cinza quente", "output": "#908080"}
+{"input": "coral", "output": "#ff5555"}
+{"input": "dourado claro", "output": "#ddcc33"}
+{"input": "violeta escuro", "output": "#6644a0"}
+{"input": "bege frio", "output": "#bbb0a8"}
+{"input": "indigo", "output": "#4444aa"}
+{"input": "indigo frio", "output": "#4444aa"}
+{"input": "indigo opaco", "output": "#664488"}
+{"input": "laranja", "output": "#ee8844"}
+{"input": "laranja brilhante", "output": "#f6b23b"}
+{"input": "laranja clara", "output": "#f6aa77"}
+{"input": "laranja claro", "output": "#ffdd55"}
+{"input": "laranja claroa", "output": "#eeaa66"}
+{"input": "laranja escura", "output": "#c35522"}
+{"input": "laranja fria", "output": "#ee9060"}
+{"input": "laranja neon", "output": "#ffdd2a"}
+{"input": "laranja opaco", "output": "#c3742a"}
+{"input": "laranja profunda", "output": "#c3662a"}
+{"input": "laranja pálida", "output": "#eebb7f"}
+{"input": "laranja quente", "output": "#ee9055"}
+{"input": "lima claro", "output": "#ddff66"}
+{"input": "lima claroa", "output": "#d0ee66"}
+{"input": "lima escura", "output": "#888508"}
+{"input": "lima neon", "output": "#d0ff10"}
+{"input": "lima opaco", "output": "#b6c318"}
+{"input": "lima profunda", "output": "#998000"}
+{"input": "lima quente", "output": "#ccdd31"}
+{"input": "limão", "output": "#ddff11"}
+{"input": "limão brilhante", "output": "#d6ff30"}
+{"input": "limão claro", "output": "#c6dd21"}
+{"input": "limão frio", "output": "#a0bb33"}
+{"input": "limão moliva", "output": "#ccf090"}
+{"input": "limão neon", "output": "#eeff11"}
+{"input": "limão opaco", "output": "#d4dd70"}
+{"input": "limão profundo", "output": "#b0aa11"}
+{"input": "magenta", "output": "#aa10a0"}
+{"input": "magenta brilhante", "output": "#d610d0"}
+{"input": "magenta claro", "output": "#df43c0"}
+{"input": "magenta escuro", "output": "#9d2170"}
+{"input": "magenta frio", "output": "#be38a0"}
+{"input": "magenta moliva", "output": "#c643ad"}
+{"input": "magenta neon", "output": "#d610b8"}
+{"input": "magenta opaco", "output": "#a52890"}
+{"input": "magenta profunda", "output": "#a11078"}
+{"input": "magenta pálida", "output": "#d448bd"}
+{"input": "magenta quente", "output": "#c520a5"}
+{"input": "marrom", "output": "#775544"}
+{"input": "marrom brilhante", "output": "#774c44"}
+{"input": "marrom claro", "output": "#997160"}
+{"input": "marrom escuro", "output": "#62443b"}
+{"input": "marrom frio", "output": "#836042"}
+{"input": "marrom neon", "output": "#904c2a"}
+{"input": "marrom opaco", "output": "#856455"}
+{"input": "marrom profundo", "output": "#774c39"}
+{"input": "marrom quente", "output": "#a1623b"}
+{"input": "oliveira neon", "output": "#b0aa11"}
+{"input": "oliveira pálida", "output": "#bbbb82"}
+{"input": "ouro", "output": "#ccbb33"}
+{"input": "ouro brilhante", "output": "#decc22"}
+{"input": "ouro claro", "output": "#decc5f"}
+{"input": "ouro escuro", "output": "#b29910"}
+{"input": "ouro frio", "output": "#d0bb33"}
+{"input": "ouro neon", "output": "#dedd19"}
+{"input": "ouro opaco", "output": "#ccbb32"}
+{"input": "ouro profundo", "output": "#bb9410"}
+{"input": "ouro quente", "output": "#d4b233"}
+{"input": "prata", "output": "#bbaa22"}
+{"input": "prata brilhante", "output": "#d4bb19"}
+{"input": "prata clara", "output": "#ccc0a7"}
+{"input": "prata claro", "output": "#cccc70"}
+{"input": "prata escura", "output": "#906c19"}
+{"input": "prata fria", "output": "#bbaa61"}
+{"input": "prata neon", "output": "#ddf0ff"}
+{"input": "prata opaco", "output": "#a59933"}
+{"input": "prata profunda", "output": "#a17744"}
+{"input": "prata pálida", "output": "#c3b599"}
+{"input": "prata quente", "output": "#ccaa50"}
+{"input": "preta claroa", "output": "#101010"}
+{"input": "preto", "output": "#204410"}
+{"input": "preto brilhante", "output": "#001808"}
+{"input": "preto claro", "output": "#9ea59e"}
+{"input": "preto escuro", "output": "#282922"}
+{"input": "preto frio", "output": "#073440"}
+{"input": "preto neon", "output": "#0e073d"}
+{"input": "preto opaco", "output": "#4a5053"}
+{"input": "preto profundo", "output": "#3a3b32"}
+{"input": "preto quente", "output": "#7e4c44"}
+{"input": "profundidade do ciano", "output": "#0066a0"}
+{"input": "pêssego", "output": "#eebbaa"}
+{"input": "rosa", "output": "#d25f9c"}
+{"input": "rosa brilhante", "output": "#f644dd"}
+{"input": "rosa clara", "output": "#f688cc"}
+{"input": "rosa escura", "output": "#aa3055"}
+{"input": "rosa escuro", "output": "#aa3388"}
+{"input": "rosa neon", "output": "#f62aee"}
+{"input": "rosa opaca", "output": "#c35384"}
+{"input": "rosa profunda", "output": "#aa3377"}
+{"input": "rosa pálida", "output": "#e5a5c6"}
+{"input": "rosa quente", "output": "#e588a5"}
+{"input": "roxa claroa", "output": "#9966cc"}
+{"input": "roxo", "output": "#a020f0"}
+{"input": "roxo brilhante", "output": "#a541e5"}
+{"input": "roxo clara", "output": "#aa90cc"}
+{"input": "roxo claro", "output": "#9d73cc"}
+{"input": "roxo escuro", "output": "#553366"}
+{"input": "roxo fria", "output": "#9966aa"}
+{"input": "roxo frio", "output": "#9070bb"}
+{"input": "roxo neon", "output": "#a52add"}
+{"input": "roxo opaco", "output": "#735377"}
+{"input": "roxo profunda", "output": "#77339c"}
+{"input": "roxo pálida", "output": "#a17bbb"}
+{"input": "roxo quente", "output": "#9055bb"}
+{"input": "salmão brilhante", "output": "#f67277"}
+{"input": "salmão claro", "output": "#dd8e92"}
+{"input": "salmão escuro", "output": "#aa3939"}
+{"input": "salmão frio", "output": "#ee949c"}
+{"input": "salmão moliva", "output": "#ee9999"}
+{"input": "salmão neon", "output": "#ee44e0"}
+{"input": "salmão opaco", "output": "#cd8588"}
+{"input": "salmão profundo", "output": "#a14c55"}
+{"input": "salmão quente", "output": "#e57a72"}
+{"input": "verde", "output": "#00ff00"}
+{"input": "verde azulado", "output": "#10a099"}
+{"input": "verde azulado brilhante", "output": "#08b5bb"}
+{"input": "verde azulado claro", "output": "#30acb1"}
+{"input": "verde azulado de neon", "output": "#10eee0"}
+{"input": "verde azulado escuro", "output": "#106061"}
+{"input": "verde azulado frio", "output": "#109494"}
+{"input": "verde azulado neon", "output": "#10a0bb"}
+{"input": "verde azulado opaco", "output": "#2f8b8b"}
+{"input": "verde azulado profundo", "output": "#10707b"}
+{"input": "verde azulado quente", "output": "#109894"}
+{"input": "verde brilhante", "output": "#22dd2a"}
+{"input": "verde claro", "output": "#98d793"}
+{"input": "verde claroa", "output": "#a0cc33"}
+{"input": "verde escuro", "output": "#30532a"}
+{"input": "verde florestal", "output": "#207755"}
+{"input": "verde frio", "output": "#339951"}
+{"input": "verde menta", "output": "#30e0aa"}
+{"input": "verde neon", "output": "#61f619"}
+{"input": "verde opaco", "output": "#71a154"}
+{"input": "verde profundo", "output": "#2f6f39"}
+{"input": "verde quente", "output": "#73b255"}
+{"input": "vermelha claroa", "output": "#dd3333"}
+{"input": "vermelho", "output": "#ff0000"}
+{"input": "vermelho brilhante", "output": "#dd1131"}
+{"input": "vermelho cereja", "output": "#cc3030"}
+{"input": "vermelho claro", "output": "#e55d5d"}
+{"input": "vermelho escuro", "output": "#b62220"}
+{"input": "vermelho frio", "output": "#d43333"}
+{"input": "vermelho neon", "output": "#dd1120"}
+{"input": "vermelho opaco", "output": "#cc3e46"}
+{"input": "vermelho profundo", "output": "#c32a39"}
+{"input": "vermelho quente", "output": "#dd4c4c"}
+{"input": "violeta", "output": "#8066bb"}
+{"input": "violeta brilhante", "output": "#a551ee"}
+{"input": "violeta clara", "output": "#9073dd"}
+{"input": "violeta claro", "output": "#a0a0ee"}
+{"input": "violeta claroa", "output": "#9070ee"}
+{"input": "violeta escura", "output": "#663366"}
+{"input": "violeta fria", "output": "#8370c3"}
+{"input": "violeta neon", "output": "#a53bee"}
+{"input": "violeta opaca", "output": "#664080"}
+{"input": "violeta opaco", "output": "#666688"}
+{"input": "violeta profunda", "output": "#623ba0"}
+{"input": "violeta pálida", "output": "#7766bb"}
+{"input": "violeta quente", "output": "#9062cc"}
+{"input": "índigo brilhante", "output": "#6644e0"}
+{"input": "índigo claro", "output": "#665dbf"}
+{"input": "índigo escuro", "output": "#3a3266"}
+{"input": "índigo frio", "output": "#6666bb"}
+{"input": "índigo neon", "output": "#5d44dd"}
+{"input": "índigo opaco", "output": "#6666a4"}
+{"input": "índigo profundo", "output": "#422988"}
+{"input": "índigo quente", "output": "#5544a1"}

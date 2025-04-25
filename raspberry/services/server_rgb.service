@@ -1,0 +1,14 @@
+[Unit]
+Description=Servidor Flask para Alexa RGB Setup
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 /home/"SEU USER"/scripts/server.py
+WorkingDirectory=/home/"SEU USER"
+StandardOutput=inherit
+StandardError=inherit
+Restart=always
+User="SEU USER"
+
+[Install]
+WantedBy=multi-user.target
