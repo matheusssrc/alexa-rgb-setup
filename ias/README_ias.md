@@ -41,9 +41,9 @@ ias
 ### Criação do Ambiente Virtual e Instalação dos Requisitos específicos
 
 1. Crie um ambiente virtual com Python 3.10 (exigido por `transformers`)
-2. Instale as dependências via `requirements_computer.txt`
+2. Instale as dependências via `requirements_ias.txt`
 ```
-pip install -r requirements_computer.txt
+pip install -r requirements_ias.txt
 ```
 
 ### 1. Download dos modelos

@@ -48,6 +48,8 @@ scripts/
 - Ngrok instalado localmente e autenticado
 - Conectividade com o computador principal via rede local (ex: ping)
 
+> Todas as dependências estão listadas em `requirements_raspberry.txt` nesta mesma pasta.
+
 ## Execução
 
 A execução do módulo no Raspberry Pi segue uma abordagem dividida entre **servidores Python**, **scripts shell** e **serviços `systemd`** para garantir **resiliência** e **automação contínua**.

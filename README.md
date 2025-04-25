@@ -39,7 +39,7 @@ Cada uma dessas pastas contém:
 ├── computer
 │   ├── ahk/
 │   │   ├── key_keyboard.ahk                   # Script AHK para automatizar a troca de cor no site do teclado
-│   │   └── key_mouse.ahk                      # Script AHK para controlar a cor do mouse via Synapse
+│   │   └── key_mouse.ahk                      # Script AHK para controlar a cor do mouse via Razer Synapse
 │   │
 │   ├── drivers/
 │   │   └── chromedriver.exe                   # Driver do navegador Chrome usado pelo Selenium
