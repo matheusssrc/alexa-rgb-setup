@@ -109,6 +109,14 @@ Cada uma dessas pastas contém:
 └── requirements.txt
 
 ```
+## Inteligência Artificial aplicada
+
+Este projeto utiliza inteligência artificial de forma aplicada por meio da integração com a Amazon Alexa — uma assistente virtual baseada em modelos de linguagem natural (NLP). 
+
+A Alexa interpreta comandos de voz, extrai a intenção do usuário e aciona ações automatizadas através de uma Skill personalizada conectada a scripts Python que controlam dispositivos RGB físicos.
+
+Embora o processamento de IA ocorra na camada da Alexa (externa ao código Python local), o projeto ilustra claramente como sistemas inteligentes podem ser integrados com automações físicas no mundo real, alinhando-se aos conceitos de IA simbólica e computação contextual.
+
 ## Requisitos
 
 - Python 3.8+
@@ -124,14 +132,6 @@ Cada uma dessas pastas contém:
 - Este projeto pode ser expandido para novos dispositivos, integração com automação residencial, armazenamento de histórico de comandos e muito mais.
 - São mais de 200 cores suportadas (você pode expandir o dataset colors.jsonl)
 - Você pode ajustar o tempo de espera entre dispositivos conforme seu hardware
-
-## Inteligência Artificial aplicada
-
-Este projeto utiliza inteligência artificial de forma aplicada por meio da integração com a Amazon Alexa — uma assistente virtual baseada em modelos de linguagem natural (NLP). 
-
-A Alexa interpreta comandos de voz, extrai a intenção do usuário e aciona ações automatizadas através de uma Skill personalizada conectada a scripts Python que controlam dispositivos RGB físicos.
-
-Embora o processamento de IA ocorra na camada da Alexa (externa ao código Python local), o projeto ilustra claramente como sistemas inteligentes podem ser integrados com automações físicas no mundo real, alinhando-se aos conceitos de IA simbólica e computação contextual.
 
 ## Licença
 
