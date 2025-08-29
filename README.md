@@ -140,4 +140,4 @@ MIT License
 ---
 
 **Autor:** Matheus Rossi Carvalho  
-**Contato:** [LinkedIn](https://www.linkedin.com/in/matheusrossicarvalho/)
+**Contato:** [LinkedIn](https://www.linkedin.com/in/matheus-rossi-carvalho/)
